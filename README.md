@@ -1,6 +1,16 @@
 # Airbnb-Dashboard-
 Power BI dashboard providing comprehensive insights into Airbnb market trends, listing performance, pricing strategies, and customer review patterns.
 
+## Dashboard Screenshots
+
+![Airbnb Dashboard Page 1](assets/screenshots/airbnb-page-1.png)
+
+![Airbnb Dashboard Page 2](assets/screenshots/airbnb-page-2.png)
+
+![Airbnb Dashboard Page 3](assets/screenshots/airbnb-page-3.png)
+
+![Airbnb Dashboard Page 4](assets/screenshots/airbnb-page-4.png)
+
 
 # Airbnb Market Analysis Dashboard | Power BI
 
